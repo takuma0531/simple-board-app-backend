@@ -1,8 +1,8 @@
-"""simpleBoard table
+"""posts table
 
-Revision ID: 20734d7e5c59
+Revision ID: 37c7355fe2b2
 Revises: 
-Create Date: 2020-04-07 03:39:11.653241
+Create Date: 2020-04-08 03:05:13.674180
 
 """
 from alembic import op
@@ -10,7 +10,7 @@ import sqlalchemy as sa
 
 
 # revision identifiers, used by Alembic.
-revision = '20734d7e5c59'
+revision = '37c7355fe2b2'
 down_revision = None
 branch_labels = None
 depends_on = None
