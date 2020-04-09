@@ -1,3 +1,1 @@
-python app.py db upgrade
-
-web: gunicorn app:app --log-file=-
+web: gunicorn app:app
